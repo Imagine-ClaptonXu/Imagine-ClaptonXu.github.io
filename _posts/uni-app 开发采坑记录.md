@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      uni-app 开发记录
+title:      uni-app 开发 记录
 subtitle:   采过的坑
 date:       2020-04-17
 author:     Donbin
